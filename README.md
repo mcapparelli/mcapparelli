@@ -1,4 +1,5 @@
-👋 Hi my name is Martin F. Capparelli Software Engineer graduated from ITBA, I live in Buenos Aires and I consider myself a creative and committed person with vast experience not only in both, front and backend development, but also developing scalable architectures.  
+👋 Hi my name is Martin F. Capparelli, well known as cappa. I am Software Engineer graduated from ITBA, living in Buenos Aires. I consider myself a creative and committed person with vast experience not only in both, front and backend development, but also developing scalable architectures.
+
 * 🖥️  See my portfolio at [capparelli.dev](http://Capparelli.dev) 
 * 📬  You can contact me at [martinfedericocapparelli@gmail.com](mailto:martinfedericocapparelli@gmail.com) 
 * 🧠  I'm learning Currently self-learning Web3 and decetralized technologies to dig deeper into this new world!
