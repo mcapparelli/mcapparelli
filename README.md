@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi Stranger, I'm Cappa!</h1>
-My name is Martin F. Capparelli and I am Software Engineer graduated from ITBA, living in Buenos Aires. I consider myself a creative and committed person with vast experience not only in both, front and backend development, but also developing scalable architectures.
+<h4 align="center"> My name is Martin F. Capparelli and I am Software Engineer graduated from ITBA, living in Buenos Aires. I consider myself a creative and committed person with vast experience not only in both, front and backend development, but also developing scalable architectures.</h4>
 
 * 🖥️  See my portfolio at [capparelli.dev](http://Capparelli.dev) 
 * 📬  You can contact me at [martinfedericocapparelli@gmail.com](mailto:martinfedericocapparelli@gmail.com) 
