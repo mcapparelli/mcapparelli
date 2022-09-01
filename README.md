@@ -1,7 +1,7 @@
 ![header](https://imgur.com/Rloygbl.png)
 
 <div align="center">
-  <h1>Find Me</h1>
+  <h2>You can also find me</h2>
   
   <a href="https://www.capparelli.dev">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
