@@ -1,9 +1,8 @@
 ![header](https://imgur.com/Rloygbl.png)
 
 <div align="center">
-  <h1> Me</h1>
-
-  <br />
+  <h1>Find Me</h1>
+  
   <a href="https://www.capparelli.dev">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://medium.com/@martincapparelli">Medium</a>
@@ -11,9 +10,6 @@
   <hr />
 </div>
 
-* 🖥️  See my portfolio at [capparelli.dev](http://Capparelli.dev) 
-* 📬  You can contact me at [martinfedericocapparelli@gmail.com](mailto:martinfedericocapparelli@gmail.com) 
-* 🧠  I'm learning Currently self-learning Web3 and decetralized technologies to dig deeper into this new world!
 
 ### Skills
 
