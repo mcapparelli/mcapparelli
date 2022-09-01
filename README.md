@@ -6,6 +6,9 @@
   <a href="https://www.capparelli.dev">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://medium.com/@martincapparelli">Medium</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.linkedin.com/in/martin-federico-capparelli-49b38797/">LinkedIn</a>
+  
   <br />
   <hr />
 </div>
