@@ -1,7 +1,15 @@
 ![header](https://imgur.com/Rloygbl.png)
 
-<h1 align="center">👋 Hi there, I'm Cappa!</h1>
-<h4 align="center"> My name is Martin F. Capparelli and I am Software Engineer graduated from ITBA, living in Buenos Aires. I consider myself a creative and committed person with vast experience not only in both, front and backend development, but also developing scalable architectures.</h4>
+<div align="center">
+  <h1> Me</h1>
+
+  <br />
+  <a href="https://www.capparelli.dev">Website</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://medium.com/@martincapparelli">Medium</a>
+  <br />
+  <hr />
+</div>
 
 * 🖥️  See my portfolio at [capparelli.dev](http://Capparelli.dev) 
 * 📬  You can contact me at [martinfedericocapparelli@gmail.com](mailto:martinfedericocapparelli@gmail.com) 
