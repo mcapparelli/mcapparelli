@@ -1,5 +1,7 @@
 
-![Uploading Web.jpg…]()
+<div align="center">
+  <img src=".local/Web.jpg" alt="web image" width="200" />
+</div>
 
 <div align="center">
   <h2>You can also find me</h2>
