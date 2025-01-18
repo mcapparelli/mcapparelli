@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".local/web.jpg" alt="web image" width="200" />
+  <img src=".local/web.jpg" alt="web image" width="100%" />
 </div>
 
 <div align="center">
