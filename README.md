@@ -11,7 +11,6 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.linkedin.com/in/martin-federico-capparelli-49b38797/">LinkedIn</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://www.instagram.com/tincapparelli/">Instagram</a>
   
   <br />
 </div>
