@@ -1,27 +1,18 @@
-<a href="https://www.capparelli.dev">
-  <img src="assets/banner.svg" alt="Martin F. Capparelli, Principal Engineer. Growth is a platform problem long before it looks like one." width="100%" />
-</a>
+![Martin F. Capparelli, Principal Engineer. Growth is a platform problem long before it looks like one.](assets/banner.svg)
 
-&nbsp;
+I build platforms, and I care about how software behaves once it's running: how fast it can change without losing control, how simple it is to operate, and what it costs.
 
-I build the platforms that let a business keep its promises as it scales. I care about how systems behave once they're running: how fast they can change without losing control, how simple they are to operate, and what they cost.
-
-Right now I'm working on the platform behind [Cashea](https://www.cashea.app)'s payments products. Before that I led engineering at Belo and was a founding engineer at UpdateAI.
-
-&nbsp;
-
-#### Experience
-
-**Cashea** · Principal Engineer &nbsp;<sub>`2025 – NOW`</sub><br>**Belo** · Head of Engineering &nbsp;<sub>`2024 – 2025`</sub><br>**UpdateAI** · Founding Engineer &nbsp;<sub>`2022 – 2024`</sub><br>**Customily** · Senior Software Engineer &nbsp;<sub>`2021 – 2022`</sub><br><sub>Earlier: E-Nano, Natural Tech, ITBA.</sub>
-
-&nbsp;
+Lately I've been thinking about git workflows, platform design, and what AI changes for the people who build software. 
 
 #### Recent writing
 
-- [**Cognitive Debt**](https://www.capparelli.dev/blog/cognitive-debt) &nbsp;<sub>`NOV 2026`</sub><br><sub>When knowledge of the system lives in people, and now in AIs, instead of in the system.</sub>
-- [**An Opinionated Git Workflow**](https://www.capparelli.dev/blog/an-opinionated-git-workflow) &nbsp;<sub>`SEP 2025`</sub><br><sub>Keep main as the source of truth and let teams move fast without chaos.</sub>
-- [**AI Agents: My First Mission**](https://www.capparelli.dev/blog/ai-agents-my-first-mission) &nbsp;<sub>`JUL 2025`</sub><br><sub>Directing a crew of AI agents to restyle a site, and what actually happened.</sub>
+- **[Cognitive Debt](https://www.capparelli.dev/blog/cognitive-debt)**  `NOV 2026`  
+  When knowledge of the system lives in people, and now in AIs, instead of in the system.
+- **[An Opinionated Git Workflow](https://www.capparelli.dev/blog/an-opinionated-git-workflow)**  `SEP 2025`  
+  Keep main as the source of truth and let teams move fast without chaos.
+- **[AI Agents: My First Mission](https://www.capparelli.dev/blog/ai-agents-my-first-mission)**  `JUL 2025`  
+  Directing a crew of AI agents to restyle a site, and what actually happened.
 
-&nbsp;
+ 
 
-<sub>[capparelli.dev](https://www.capparelli.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mfcapparelli/) &nbsp;·&nbsp; [Writing](https://www.capparelli.dev/blog)</sub>
+[capparelli.dev](https://www.capparelli.dev)  ·  [LinkedIn](https://www.linkedin.com/in/mfcapparelli/)  ·  [Writing](https://www.capparelli.dev/blog)
