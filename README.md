@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Martin F. Capparelli, Principal Engineer. Growth is a platform problem long before it looks like one.](assets/banner.svg)
 
 I build platforms, and I care about how software behaves once it's running: how fast it can change without losing control, how simple it is to operate, and what it costs.
@@ -16,3 +17,20 @@ Lately I've been thinking about git workflows, platform design, and what AI chan
  
 
 [capparelli.dev](https://www.capparelli.dev)  ·  [LinkedIn](https://www.linkedin.com/in/mfcapparelli/)  ·  [Writing](https://www.capparelli.dev/blog)
+=======
+<div align="center">
+  <img src=".local/web.jpg" alt="web image" width="100%" />
+</div>
+
+<div align="center">
+  <h2>You can also find me</h2>
+  
+  <a href="https://www.capparelli.dev">Website</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://medium.com/@martincapparelli">Medium</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.linkedin.com/in/martin-federico-capparelli-49b38797/">LinkedIn</a>
+  
+  <br />
+</div>
+>>>>>>> 5587013d0beac844cdd141bdcc85c06da166278b
